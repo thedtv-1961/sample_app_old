@@ -32,3 +32,10 @@
 
 # Ignore for database config
 /config/database.yml
+/.idea
+
+# Ignore bundler config.
+/.bundle
+
+# Ignore Spring files.
+/spring/*.pid
